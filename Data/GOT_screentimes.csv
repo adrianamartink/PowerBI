@@ -1,0 +1,192 @@
+index,name,imdb_url,screentime,episodes,portrayed_by_name,portrayed_by_imdb_url
+0,Tyrion Lannister,http://www.imdb.com/character/ch0146096/,293.3,54,Peter Dinklage,http://www.imdb.com/name/nm0227759/
+1,Jon Snow,http://www.imdb.com/character/ch0155777/,268.15,49,Kit Harington,http://www.imdb.com/name/nm3229685/
+2,Daenerys Targaryen,http://www.imdb.com/character/ch0158597/,221.3,49,Emilia Clarke,http://www.imdb.com/name/nm3592338/
+3,Cersei Lannister,http://www.imdb.com/character/ch0159526/,201.45,52,Lena Headey,http://www.imdb.com/name/nm0372176/
+4,Sansa Stark,http://www.imdb.com/character/ch0158137/,199.3,47,Sophie Turner,http://www.imdb.com/name/nm3849842/
+5,Arya Stark,http://www.imdb.com/character/ch0158604/,189.15,47,Maisie Williams,http://www.imdb.com/name/nm3586035/
+6,Jaime Lannister,http://www.imdb.com/character/ch0158527/,162.3,43,Nikolaj Coster-Waldau,http://www.imdb.com/name/nm0182666/
+7,Theon Greyjoy,http://www.imdb.com/character/ch0158526/,123.3,39,Alfie Allen,http://www.imdb.com/name/nm0654295/
+8,Samwell Tarly,http://www.imdb.com/character/ch0244961/,121.45,37,John Bradley,http://www.imdb.com/name/nm4263213/
+9,Jorah Mormont,http://www.imdb.com/character/ch0158221/,117.3,42,Iain Glen,http://www.imdb.com/name/nm0322513/
+10,Petyr 'Littlefinger' Baelish,http://www.imdb.com/character/ch0245982/,102.15,35,Aidan Gillen,http://www.imdb.com/name/nm0318821/
+11,Eddard 'Ned' Stark,http://www.imdb.com/character/ch0154681/,99.45,16,Sean Bean,http://www.imdb.com/name/nm0000293/
+12,Brienne of Tarth,http://www.imdb.com/character/ch0254503/,89.3,32,Gwendoline Christie,http://www.imdb.com/name/nm3729225/
+13,Davos Seaworth,http://www.imdb.com/character/ch0255396/,89.3,29,Liam Cunningham,http://www.imdb.com/name/nm0192377/
+14,Bran Stark,http://www.imdb.com/character/ch0234897/,86.0,30,Isaac Hempstead Wright,http://www.imdb.com/name/nm3652842/
+15,Catelyn Stark,http://www.imdb.com/character/ch0145135/,82.45,26,Michelle Fairley,http://www.imdb.com/name/nm0265610/
+16,Lord Varys,http://www.imdb.com/character/ch0249636/,81.45,36,Conleth Hill,http://www.imdb.com/name/nm0384152/
+17,Tywin Lannister,http://www.imdb.com/character/ch0242185/,78.15,27,Charles Dance,http://www.imdb.com/name/nm0001097/
+18,Margaery Tyrell,http://www.imdb.com/character/ch0251974/,78.0,26,Natalie Dormer,http://www.imdb.com/name/nm1754059/
+19,Robb Stark,http://www.imdb.com/character/ch0158596/,77.45,21,Richard Madden,http://www.imdb.com/name/nm0534635/
+20,Stannis Baratheon,http://www.imdb.com/character/ch0250897/,73.15,24,Stephen Dillane,http://www.imdb.com/name/nm0226820/
+21,Sandor 'The Hound' Clegane,http://www.imdb.com/character/ch0162882/,72.45,29,Rory McCann,http://www.imdb.com/name/nm0564920/
+22,Joffrey Baratheon,http://www.imdb.com/character/ch0156278/,70.15,26,Jack Gleeson,http://www.imdb.com/name/nm0322416/
+23,Ramsay Bolton,http://www.imdb.com/character/ch0321004/,66.0,20,Iwan Rheon,http://www.imdb.com/name/nm3701064/
+24,Melisandre,http://www.imdb.com/character/ch0287523/,65.45,26,Carice van Houten,http://www.imdb.com/name/nm0396924/
+25,Bronn,http://www.imdb.com/character/ch0241345/,64.0,29,Jerome Flynn,http://www.imdb.com/name/nm0283492/
+26,Gilly,http://www.imdb.com/character/ch0306819/,52.0,21,Hannah Murray,http://www.imdb.com/name/nm2356940/
+27,Ygritte,http://www.imdb.com/character/ch0304492/,51.0,17,Rose Leslie,http://www.imdb.com/name/nm3310211/
+28,Shae,http://www.imdb.com/character/ch0250564/,47.15,20,Sibel Kekilli,http://www.imdb.com/name/nm1402546/
+29,Daario Naharis,http://www.imdb.com/character/ch0335040/,46.0,21,Ed Skrein,http://www.imdb.com/name/nm4534098/
+30,Missandei,http://www.imdb.com/character/ch0316923/,45.45,29,Nathalie Emmanuel,http://www.imdb.com/name/nm2812026/
+31,Tommen Baratheon,http://www.imdb.com/character/ch0256424/,43.15,24,Callum Wharry,http://www.imdb.com/name/nm4422626/
+32,Tormund Giantsbane,http://www.imdb.com/character/ch0316925/,41.45,24,Kristofer Hivju,http://www.imdb.com/name/nm1970465/
+33,Podrick Payne,http://www.imdb.com/character/ch0306046/,41.15,26,Daniel Portman,http://www.imdb.com/name/nm4535552/
+34,Olenna Tyrell,http://www.imdb.com/character/ch0010188/,38.15,16,Diana Rigg,http://www.imdb.com/name/nm0001671/
+35,High Sparrow,http://www.imdb.com/character/ch0476559/,37.3,12,Jonathan Pryce,http://www.imdb.com/name/nm0000596/
+36,Barristan Selmy,http://www.imdb.com/character/ch0241346/,37.15,25,Ian McElhinney,http://www.imdb.com/name/nm0568400/
+37,Grand Maester Pycelle,http://www.imdb.com/character/ch0232836/,35.15,31,Julian Glover,http://www.imdb.com/name/nm0002103/
+38,Loras Tyrell,http://www.imdb.com/character/ch0231428/,33.0,20,Finn Jones,http://www.imdb.com/name/nm3645691/
+39,Grey Worm,http://www.imdb.com/character/ch0335038/,32.15,24,Jacob Anderson,http://www.imdb.com/name/nm2760664/
+40,Talisa Maegyr,http://www.imdb.com/character/ch0305007/,30.45,12,Oona Chaplin,http://www.imdb.com/name/nm2772105/
+41,Robert Baratheon,http://www.imdb.com/character/ch0155776/,30.3,7,Mark Addy,http://www.imdb.com/name/nm0004692/
+42,Roose Bolton,http://www.imdb.com/character/ch0305006/,30.15,19,Michael McElhatton,http://www.imdb.com/name/nm0568385/
+43,Osha,http://www.imdb.com/character/ch0295802/,29.45,16,Natalia Tena,http://www.imdb.com/name/nm1164730/
+44,Eddison Tollett,http://www.imdb.com/character/ch0305008/,29.15,29,Ben Crompton,http://www.imdb.com/name/nm0174005/
+45,Hodor,http://www.imdb.com/character/ch0238584/,29.0,23,Kristian Nairn,http://www.imdb.com/name/nm3964231/
+46,Gendry,http://www.imdb.com/character/ch0300040/,28.45,17,Joe Dempsie,http://www.imdb.com/name/nm1478079/
+47,Oberyn Martell,http://www.imdb.com/character/ch0392307/,28.3,7,Pedro Pascal,http://www.imdb.com/name/nm0050959/
+48,Yara Greyjoy,http://www.imdb.com/character/ch0300217/,27.0,12,Gemma Whelan,http://www.imdb.com/name/nm2247629/
+49,Meera Reed,http://www.imdb.com/character/ch0316928/,27.0,13,Ellie Kendrick,http://www.imdb.com/name/nm1697771/
+50,Jaqen H'ghar,http://www.imdb.com/character/ch0259179/,26.3,18,Tom Wlaschiha,http://www.imdb.com/name/nm0937239/
+51,Alliser Thorne,http://www.imdb.com/character/ch0246938/,26.0,19,Owen Teale,http://www.imdb.com/name/nm0853583/
+52,Khal Drogo,http://www.imdb.com/character/ch0171388/,25.0,10,Jason Momoa,http://www.imdb.com/name/nm0597388/
+53,Renly Baratheon,http://www.imdb.com/character/ch0246253/,24.0,8,Gethin Anthony,http://www.imdb.com/name/nm2167445/
+54,Maester Luwin,http://www.imdb.com/character/ch0171393/,23.3,13,Donald Sumpter,http://www.imdb.com/name/nm0838910/
+55,Ros,http://www.imdb.com/character/ch0010187/,21.45,14,Esmé Bianco,http://www.imdb.com/name/nm2657974/
+56,Grenn,http://www.imdb.com/character/ch0251496/,21.15,22,Mark Stanley,http://www.imdb.com/name/nm4440305/
+57,Mance Rayder,http://www.imdb.com/character/ch0335039/,21.0,5,Ciarán Hinds,http://www.imdb.com/name/nm0001354/
+58,Jeor Mormont,http://www.imdb.com/character/ch0251492/,21.0,12,James Cosmo,http://www.imdb.com/name/nm0181920/
+59,Viserys Targaryen,http://www.imdb.com/character/ch0155775/,20.3,6,Harry Lloyd,http://www.imdb.com/name/nm0516003/
+60,Qyburn,http://www.imdb.com/character/ch0316929/,19.15,14,Anton Lesser,http://www.imdb.com/name/nm0504320/
+61,Jojen Reed,http://www.imdb.com/character/ch0316921/,19.0,10,Thomas Brodie-Sangster,http://www.imdb.com/name/nm1032473/
+62,Maester Aemon,http://www.imdb.com/character/ch0246936/,19.0,11,Peter Vaughan,http://www.imdb.com/name/nm0891092/
+63,Ellaria Sand,http://www.imdb.com/character/ch0309687/,18.3,11,Indira Varma,http://www.imdb.com/name/nm0890055/
+64,Lancel Lannister,http://www.imdb.com/character/ch0376927/,18.3,17,Eugene Simon,http://www.imdb.com/name/nm1638294/
+65,Shireen Baratheon,http://www.imdb.com/character/ch0306346/,18.15,10,Kerry Ingram,http://www.imdb.com/name/nm5081192/
+66,Edmure Tully,http://www.imdb.com/character/ch0316931/,17.45,8,Tobias Menzies,http://www.imdb.com/name/nm0580014/
+67,Gregor Clegane,http://www.imdb.com/character/ch0245401/,17.15,14,Conan Stevens,http://www.imdb.com/name/nm1947403/
+68,Lysa Arryn,http://www.imdb.com/character/ch0251736/,16.3,5,Kate Dickie,http://www.imdb.com/name/nm0225483/
+69,Meryn Trant,http://www.imdb.com/character/ch0246933/,16.0,18,Ian Beattie,http://www.imdb.com/name/nm0064155/
+70,Brynden 'Blackfish' Tully,http://www.imdb.com/character/ch0381563/,16.0,7,Clive Russell,http://www.imdb.com/name/nm0751085/
+71,Walder Frey,http://www.imdb.com/character/ch0305328/,15.45,5,David Bradley,http://www.imdb.com/name/nm0103195/
+72,Thoros of Myr,http://www.imdb.com/character/ch0316927/,15.0,7,Paul Kaye,http://www.imdb.com/name/nm0443373/
+73,Janos Slynt,http://www.imdb.com/character/ch0300651/,14.15,15,Dominic Carter,http://www.imdb.com/name/nm0141582/
+74,Locke,http://www.imdb.com/character/ch0045904/,13.0,8,Noah Taylor,http://www.imdb.com/name/nm0852965/
+75,Myranda,http://www.imdb.com/character/ch0316926/,13.0,8,Charlotte Hope,http://www.imdb.com/name/nm3745225/
+76,Rickon Stark,http://www.imdb.com/character/ch0233141/,12.45,14,Art Parkinson,http://www.imdb.com/name/nm3280686/
+77,Rodrik Cassel,http://www.imdb.com/character/ch0171391/,12.45,15,Ron Donachie,http://www.imdb.com/name/nm0231871/
+78,Waif,http://www.imdb.com/character/ch0508054/,12.45,11,Faye Marsay,http://www.imdb.com/name/nm3849670/
+79,Hot Pie,http://www.imdb.com/character/ch0273432/,12.45,10,Ben Hawkey,http://www.imdb.com/name/nm3444954/
+80,Rast,http://www.imdb.com/character/ch0251498/,12.45,12,Luke Barnes,http://www.imdb.com/name/nm4430828/
+81,Septa Unella,http://www.imdb.com/character/ch0512215/,12.3,8,Hannah Waddingham,http://www.imdb.com/name/nm1821446/
+82,Olly,http://www.imdb.com/character/ch0508055/,12.3,17,Brenock O'Connor,http://www.imdb.com/name/nm5282143/
+83,Doreah,http://www.imdb.com/character/ch0248504/,12.3,11,Roxanne McKee,http://www.imdb.com/name/nm1861467/
+84,Balon Greyjoy,http://www.imdb.com/character/ch0292152/,12.15,4,Patrick Malahide,http://www.imdb.com/name/nm0538869/
+85,Benjen Stark,http://www.imdb.com/character/ch0153996/,12.0,7,Joseph Mawle,http://www.imdb.com/name/nm1152798/
+86,Pypar,http://www.imdb.com/character/ch0273477/,12.0,13,Josef Altin,http://www.imdb.com/name/nm1086981/
+87,Yoren,http://www.imdb.com/character/ch0251493/,12.0,7,Francis Magee,http://www.imdb.com/name/nm0535837/
+88,Myrcella Baratheon,http://www.imdb.com/character/ch0238585/,11.45,12,Aimee Richardson,http://www.imdb.com/name/nm4048461/
+89,Hizdahr zo Loraq,http://www.imdb.com/character/ch0414458/,11.45,8,Joel Fry,http://www.imdb.com/name/nm2181128/
+90,Mace Tyrell,http://www.imdb.com/character/ch0384328/,11.3,13,Roger Ashton-Griffiths,http://www.imdb.com/name/nm0004355/
+91,Robin Arryn,http://www.imdb.com/character/ch0300949/,11.15,8,Lino Facioli,http://www.imdb.com/name/nm2996220/
+92,Beric Dondarrion,http://www.imdb.com/character/ch0305320/,11.15,6,David Michael Scott,http://www.imdb.com/name/nm2364108/
+93,Karl Tanner,http://www.imdb.com/character/ch0396528/,11.15,4,Burn Gorman,http://www.imdb.com/name/nm1218607/
+94,Selyse Baratheon,http://www.imdb.com/character/ch0316924/,11.0,11,Sarah MacKeever,http://www.imdb.com/name/nm5223922/
+95,Xaro Xhoan Daxos,http://www.imdb.com/character/ch0303950/,10.3,5,Nonso Anozie,http://www.imdb.com/name/nm1996829/
+96,Irri,http://www.imdb.com/character/ch0249444/,10.0,13,Amrita Acharia,http://www.imdb.com/name/nm3822505/
+97,Lady Crane,http://www.imdb.com/character/ch0541190/,10.0,3,Essie Davis,http://www.imdb.com/name/nm0204583/
+98,Qhorin Halfhand,http://www.imdb.com/character/ch0303951/,9.3,4,Simon Armstrong,http://www.imdb.com/name/nm1409802/
+99,Orell,http://www.imdb.com/character/ch0316922/,9.0,6,Mackenzie Crook,http://www.imdb.com/name/nm0188871/
+100,Rakharo,http://www.imdb.com/character/ch0251495/,8.45,8,Elyes Gabel,http://www.imdb.com/name/nm1175468/
+101,Kevan Lannister,http://www.imdb.com/character/ch0305013/,8.3,11,Ian Gelder,http://www.imdb.com/name/nm0312245/
+102,Tyene Sand,http://www.imdb.com/character/ch0468075/,8.3,7,Rosabell Laurenti Sellers,http://www.imdb.com/name/nm3065809/
+103,Olyvar,http://www.imdb.com/character/ch0403194/,8.15,6,Will Tudor,http://www.imdb.com/name/nm4831584/
+104,Three-Eyed Raven,http://www.imdb.com/character/ch0414457/,8.0,9,Struan Rodger,http://www.imdb.com/name/nm0734654/
+105,Alton Lannister,http://www.imdb.com/character/ch0305012/,8.0,3,Karl Davies,http://www.imdb.com/name/nm0203801/
+106,Yezzan zo Qaggaz,http://www.imdb.com/character/ch0470706/,7.45,4,Enzo Cilenti,http://www.imdb.com/name/nm0162281/
+107,Doran Martell,http://www.imdb.com/character/ch0468006/,7.3,5,Alexander Siddig,http://www.imdb.com/name/nm0796502/
+108,Mirri Maz Duur,http://www.imdb.com/character/ch0305011/,7.3,3,Mia Soteriou,http://www.imdb.com/name/nm0815420/
+109,Wun Wun,http://www.imdb.com/character/ch0524621/,7.3,5,Ian Whyte,http://www.imdb.com/name/nm1613839/
+110,Syrio Forel,http://www.imdb.com/character/ch0246934/,7.15,3,Miltos Yerolemou,http://www.imdb.com/name/nm1115654/
+111,Nymeria Sand,http://www.imdb.com/character/ch0468074/,7.0,7,Jessica Henwick,http://www.imdb.com/name/nm3725055/
+112,Obara Sand,http://www.imdb.com/character/ch0468001/,6.45,7,Keisha Castle-Hughes,http://www.imdb.com/name/nm1095720/
+113,Razdal mo Eraz,http://www.imdb.com/character/ch0413591/,6.45,3,George Georgiou,http://www.imdb.com/name/nm1745190/
+114,Euron Greyjoy,http://www.imdb.com/character/ch0518715/,6.3,2,Pilou Asbæk,http://www.imdb.com/name/nm1561982/
+115,Craster,http://www.imdb.com/character/ch0300218/,6.3,5,Robert Pugh,http://www.imdb.com/name/nm0700059/
+116,Brother Ray,http://www.imdb.com/character/ch0541878/,6.3,unspecified,Ian McShane,http://www.imdb.com/name/nm0574534/
+117,Matthos Seaworth,http://www.imdb.com/character/ch0305029/,6.3,3,Kerr Logan,http://www.imdb.com/name/nm4523680/
+118,Salladhor Saan,http://www.imdb.com/character/ch0381104/,6.15,3,Lucian Msamati,http://www.imdb.com/name/nm1748634/
+119,Jory Cassel,http://www.imdb.com/character/ch0245400/,6.15,5,Jamie Sives,http://www.imdb.com/name/nm0803397/
+120,Othell Yarwyck,http://www.imdb.com/character/ch0305003/,6.15,13,Brian Fortune,http://www.imdb.com/name/nm1987270/
+121,Will,http://www.imdb.com/character/ch0171394/,6.15,unspecified,Bronson Webb,http://www.imdb.com/name/nm0916037/
+122,Septa Mordane,http://www.imdb.com/character/ch0248505/,6.0,6,Susan Brown,http://www.imdb.com/name/nm0114742/
+123,Polliver,http://www.imdb.com/character/ch0305023/,6.0,2,Andy Kellegher,http://www.imdb.com/name/nm3464945/
+124,Yohn Royce,http://www.imdb.com/character/ch0524546/,5.45,4,Rupert Vansittart,http://www.imdb.com/name/nm0889338/
+125,Kraznys mo Nakloz,http://www.imdb.com/character/ch0339503/,5.45,3,Dan Hildebrand,http://www.imdb.com/name/nm0383835/
+126,The Night's King,http://www.imdb.com/character/ch0512154/,5.3,5,Richard Brake,http://www.imdb.com/name/nm0104114/
+127,Spice King,http://www.imdb.com/character/ch0305005/,5.3,3,Nicholas Blane,http://www.imdb.com/name/nm0087432/
+128,Styr,http://www.imdb.com/character/ch0400416/,5.3,4,Yuri Kolokolnikov,http://www.imdb.com/name/nm0464305/
+129,Dagmer Cleftjaw,http://www.imdb.com/character/ch0304762/,5.15,5,Ralph Ineson,http://www.imdb.com/name/nm0408591/
+130,Khal Moro,http://www.imdb.com/character/ch0538748/,5.15,3,Joseph Naufahu,http://www.imdb.com/name/nm0622533/
+131,Rickard Karstark,http://www.imdb.com/character/ch0305331/,5.15,6,Steve Blount,http://www.imdb.com/name/nm0089416/
+132,Rattleshirt,http://www.imdb.com/character/ch0305888/,5.15,4,Edward Dogliani,http://www.imdb.com/name/nm2589085/
+133,Karsi,http://www.imdb.com/character/ch0512707/,5.15,unspecified,Birgitte Hjort Sørensen,http://www.imdb.com/name/nm2171898/
+134,Qotho,http://www.imdb.com/character/ch0246162/,5.15,6,Dar Salim,http://www.imdb.com/name/nm1502469/
+135,Armeca,http://www.imdb.com/character/ch0305014/,5.15,3,Sahara Knite,http://www.imdb.com/name/nm1783582/
+136,Anguy,http://www.imdb.com/character/ch0316930/,5.0,6,Philip McGinley,http://www.imdb.com/name/nm1528121/
+137,Greatjon Umber,http://www.imdb.com/character/ch0305010/,5.0,3,Clive Mantle,http://www.imdb.com/name/nm0544139/
+138,Lothar Frey,http://www.imdb.com/character/ch0384471/,5.0,7,Tom Brooke,http://www.imdb.com/name/nm1623508/
+139,Vala,http://www.imdb.com/character/ch0539344/,5.0,3,Meena Rayann,http://www.imdb.com/name/nm5159884/
+140,Shagga,http://www.imdb.com/character/ch0305021/,5.0,2,Mark Lewis Jones,http://www.imdb.com/name/nm0428765/
+141,Ser Dontos Hollard,http://www.imdb.com/character/ch0305031/,4.45,4,Tony Way,http://www.imdb.com/name/nm0915453/
+142,Black Walder Rivers,http://www.imdb.com/character/ch0014591/,4.45,7,Bryan McCaugherty,http://www.imdb.com/name/nm0565472/
+143,Lyanna Mormont,http://www.imdb.com/character/ch0541884/,4.3,3,Bella Ramsey,http://www.imdb.com/name/nm8165602/
+144,Mossador,http://www.imdb.com/character/ch0508053/,4.3,3,Reece Noi,http://www.imdb.com/name/nm0634139/
+145,Pyat Pree,http://www.imdb.com/character/ch0303952/,4.3,3,Ian Hanmore,http://www.imdb.com/name/nm0360171/
+146,Leaf,http://www.imdb.com/character/ch0467999/,4.15,4,Octavia Selena Alexandru,http://www.imdb.com/name/nm3238466/
+147,Walda Bolton,http://www.imdb.com/character/ch0506401/,4.0,5,Elizabeth Webster,http://www.imdb.com/name/nm3531913/
+148,Randyll Tarly,http://www.imdb.com/character/ch0524408/,4.0,unspecified,James Faulkner,http://www.imdb.com/name/nm0269077/
+149,Malko,http://www.imdb.com/character/ch0519184/,4.0,2,Adewale Akinnuoye-Agbaje,http://www.imdb.com/name/nm0015382/
+150,Trystane Martell,http://www.imdb.com/character/ch0506400/,3.45,5,Toby Sebastian,http://www.imdb.com/name/nm4514519/
+151,Areo Hotah,http://www.imdb.com/character/ch0507107/,3.45,5,Deobia Oparei,http://www.imdb.com/name/nm0649046/
+152,Aeron Greyjoy,http://www.imdb.com/character/ch0540081/,3.45,2,Michael Feast,http://www.imdb.com/name/nm0269923/
+153,Loboda,http://www.imdb.com/character/ch0511931/,3.45,unspecified,Zachary Baharov,http://www.imdb.com/name/nm1707712/
+154,Melessa Tarly,http://www.imdb.com/character/ch0541191/,3.3,unspecified,Samantha Spiro,http://www.imdb.com/name/nm0819087/
+155,Amory Lorch,http://www.imdb.com/character/ch0305002/,3.3,4,Fintan McKeown,http://www.imdb.com/name/nm0571654/
+156,Illyrio Mopatis,http://www.imdb.com/character/ch0172909/,3.3,2,Roger Allam,http://www.imdb.com/name/nm0019885/
+157,Smalljon Umber,http://www.imdb.com/character/ch0540067/,3.3,2,Dean S. Jagger,http://www.imdb.com/name/nm2746504/
+158,Bowen Marsh,http://www.imdb.com/character/ch0305036/,3.3,9,Brian Fortune,http://www.imdb.com/name/nm1987270/
+159,Tycho Nestoris,http://www.imdb.com/character/ch0468190/,3.15,2,Mark Gatiss,http://www.imdb.com/name/nm0309693/
+160,Kovarro,http://www.imdb.com/character/ch0304969/,3.15,6,Steven Cole,http://www.imdb.com/name/nm0170799/
+161,Maester Cressen,http://www.imdb.com/character/ch0255280/,3.15,unspecified,Oliver Ford Davies,http://www.imdb.com/name/nm0203882/
+162,Robett Glover,http://www.imdb.com/character/ch0541747/,3.0,unspecified,Tim McInnerny,http://www.imdb.com/name/nm0570570/
+163,Hallyne,http://www.imdb.com/character/ch0259178/,3.0,2,Roy Dotrice,http://www.imdb.com/name/nm0234541/
+164,High Priestess,http://www.imdb.com/character/ch0539898/,3.0,2,Souad Faress,http://www.imdb.com/name/nm0267256/
+165,Vardis Egen,http://www.imdb.com/character/ch0294458/,3.0,2,Brendan McCormack,http://www.imdb.com/name/nm1788152/
+166,Marillion,http://www.imdb.com/character/ch0305001/,3.0,4,Emun Elliott,http://www.imdb.com/name/nm2047170/
+167,Mero,http://www.imdb.com/character/ch0123670/,3.0,unspecified,Mark Killeen,http://www.imdb.com/name/nm2075330/
+168,Marei,http://www.imdb.com/character/ch0431527/,3.0,6,Josephine Gillan,http://www.imdb.com/name/nm4982706/
+169,Izembaro,http://www.imdb.com/character/ch0540561/,2.45,3,Richard E. Grant,http://www.imdb.com/name/nm0001290/
+170,Lommy Greenhands,http://www.imdb.com/character/ch0257030/,2.45,4,Eros Vlahos,http://www.imdb.com/name/nm2869309/
+171,Old Nan,http://www.imdb.com/character/ch0305018/,2.45,4,Margaret John,http://www.imdb.com/name/nm0424191/
+172,Joyeuse Erenford,http://www.imdb.com/character/ch0304494/,2.45,2,Kelly Long,http://www.imdb.com/name/nm4958677/
+173,Mord,http://www.imdb.com/character/ch0229099/,2.45,2,Ciaran Bermingham,http://www.imdb.com/name/nm2197118/
+174,Waymar Royce,http://www.imdb.com/character/ch0171390/,2.45,unspecified,Rob Ostlere,http://www.imdb.com/name/nm3209935/
+175,Kinvara,http://www.imdb.com/character/ch0540065/,2.3,unspecified,Ania Bukstein,http://www.imdb.com/name/nm0119804/
+176,Talla Tarly,http://www.imdb.com/character/ch0523897/,2.3,unspecified,Rebecca Benson,http://www.imdb.com/name/nm5039410/
+177,Daisy,http://www.imdb.com/character/ch0305015/,2.3,3,Maisie Dee,http://www.imdb.com/name/nm3996678/
+178,Gared,http://www.imdb.com/character/ch0171395/,2.3,unspecified,Dermot Keaney,http://www.imdb.com/name/nm0443825/
+179,Ilyn Payne,http://www.imdb.com/character/ch0246254/,2.15,4,Wilko Johnson,http://www.imdb.com/name/nm3330122/
+180,Roslin Frey,http://www.imdb.com/character/ch0391563/,2.15,unspecified,Alexandra Dowling,http://www.imdb.com/name/nm5093301/
+181,Ternesio Terys,http://www.imdb.com/character/ch0473552/,2.0,2,Gary Oliver,http://www.imdb.com/name/nm1146807/
+182,Quaithe,http://www.imdb.com/character/ch0305022/,1.45,2,Laura Pradelska,http://www.imdb.com/name/nm3671418/
+183,Hugh of the Vale,http://www.imdb.com/character/ch0305026/,1.45,2,Jefferson Hall,http://www.imdb.com/name/nm2131630/
+184,Rorge,http://www.imdb.com/character/ch0305019/,1.45,4,Andy Beckwith,http://www.imdb.com/name/nm0065874/
+185,Tickler,http://www.imdb.com/character/ch0305033/,1.45,2,Anthony Morris,http://www.imdb.com/name/nm1677757/
+186,Lollys Stokeworth,http://www.imdb.com/character/ch0511247/,1.45,unspecified,Elizabeth Cadwallader,http://www.imdb.com/name/nm5502252/
+187,Mhaegen,http://www.imdb.com/character/ch0305038/,1.15,2,Antonia Christophers,http://www.imdb.com/name/nm4460936/
+188,Biter,http://www.imdb.com/character/ch0305028/,1.15,5,Gerard Jordan,http://www.imdb.com/name/nm0429956/
+189,Lhara,http://www.imdb.com/character/ch0476558/,1.15,3,Sarine Sofair,http://www.imdb.com/name/nm3330066/
+190,Tobho Mott,http://www.imdb.com/character/ch0305039/,1.15,2,Andrew Wilde,http://www.imdb.com/name/nm0928408/
